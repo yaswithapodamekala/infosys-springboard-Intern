@@ -172,11 +172,6 @@ The TextMorph project can be further enhanced by adding:
 # Conclusion
 
 Milestone 3 successfully integrates **AI-based text summarization and paraphrasing capabilities** into the TextMorph system. These NLP modules allow users to quickly analyze and rewrite large textual content while maintaining meaning and context.
-
 Combined with the secure authentication system developed in previous milestones, this milestone completes the **core functionality of the TextMorph project** and demonstrates a practical application of **Artificial Intelligence and Natural Language Processing**.
 
-# Author
-
-**Yashwitha Podamekala**
-Infosys Springboard Intern – Batch 13
 
