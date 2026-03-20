@@ -43,13 +43,9 @@ Analyze user feedback
 Generate WordCloud visualization
 
 # Data Export
-
 Export:
-
 User details
-
 Usage logs
-
 Feedback data
 
 # User Dashboard & Profile Personalization
@@ -58,8 +54,7 @@ Update email address
 Change password
 
 # Profile Features
-
-Upload and update profile picture (Avatar/DP)
+![WhatsApp Image 2026-03-20 at 3 36 33 PM](https://github.com/user-attachments/assets/15da9027-1130-4d89-9bbf-2fa894578759)
 
 # UI/UX Enhancements
 Modern Neon-themed UI
