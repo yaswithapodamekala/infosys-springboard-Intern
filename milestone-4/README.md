@@ -1,10 +1,10 @@
-TextMorph – Secure LLM-Based NLP Platform (Milestone 4)
-🚀 Overview
+#TextMorph – Secure LLM-Based NLP Platform (Milestone 4)
+🚀 #Overview
 
 TextMorph is a secure, scalable, and interactive NLP web application built using Streamlit.
-Milestone 4 enhances the previous version by integrating Admin Dashboard, advanced analytics, user personalization, and improved UI/UX into a complete end-to-end system.
+Milestone-4 enhances the previous version by integrating Admin Dashboard, advanced analytics, user personalization, and improved UI/UX into a complete end-to-end system.
 
-🎯 Milestone 4 Objectives
+🎯#Milestone-4 Objectives
 
 Integrate all Milestone 3 features
 
@@ -16,8 +16,8 @@ Add Data Visualization & Feedback Analysis
 
 Ensure full deployment readiness
 
-🔥 Key Features
-🔐 Authentication & Security
+#Key Features
+#Authentication & Security
 
 User Registration & Login
 
@@ -31,8 +31,8 @@ Regex-based password validation
 
 Secure session handling
 
-🧑‍💼 Admin Dashboard (Management & Analytics)
-👥 User Management
+🧑‍💼 #Admin Dashboard (Management & Analytics)
+👥 #User Management
 
 Promote users to Admin role
 
